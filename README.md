@@ -39,7 +39,7 @@ It enables **data-driven decision-making** through interactive filters and KPIs.
 
 ## 👩‍💻 Author
 **M SANDHIYA**  
-Computer Science  
+Computer Science student
 
 ---
 
