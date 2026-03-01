@@ -38,8 +38,8 @@ It enables **data-driven decision-making** through interactive filters and KPIs.
 ---
 
 ## 👩‍💻 Author
-**M Madhumitha**  
-Computer Science & Engineering  
+**M SANDHIYA**  
+Computer Science  
 
 ---
 
